@@ -1,4 +1,4 @@
-### Hi everybody ​👋
+## Hi everybody ​👋
 
 <!--
 **yimei-wu/yimei-wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ I have a myriad of passions, like reading books, writing, drawing and many more.
 
 With so many passions, it's challenging to decide which one to pursue for my future career. As Confucius once said:
 
-> _"Do what you love, abd you will never have to work a single day of your life"_
+> _"Do what you love, and you will never have to work a single day of your life"_
 
 This has always been my philosophy because life is already hard and so why should we make it even harder?
 
