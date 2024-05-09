@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](profile-readme.jpeg)
+<!-- ![image]() -->
+<img src="profile-readme.jpeg" alt="image" width="auto" height="200">
 
 _This user is stressed out 24/7_
 
